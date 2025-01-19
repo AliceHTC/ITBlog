@@ -1,9 +1,10 @@
-# [0.2.0](https://github.com/AliceHTC/ITBlog/compare/v0.1.0...v0.2.0) (2025-01-19)
+# [0.3.0](https://github.com/AliceHTC/ITBlog/compare/v0.1.0...v0.3.0) (2025-01-19)
 
 
 ### Features
 
 * 1st chapter ([212fc07](https://github.com/AliceHTC/ITBlog/commit/212fc0783b2d2e5e6d8c2310d4b8c358d3dacd88))
+* add custom footer ([77f269a](https://github.com/AliceHTC/ITBlog/commit/77f269ad560664f42208fcad3fd0bf2de2782f28))
 
 
 
