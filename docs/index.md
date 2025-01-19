@@ -11,4 +11,3 @@ Here I share my learning journey for Cybersecurity.
 Or go back to our Homepage
 
 # [vitrua.top](https://vitrua.top)
-
